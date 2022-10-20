@@ -23,10 +23,10 @@ const analytics = new Analytics(ID);
 
 //fake edit2
 
-//fake edit3
-
 
 //fake edit4
+
+//fake edit5
 
 export default class DetailsScreen extends React.Component {
   static get propTypes() {
