@@ -17,6 +17,8 @@ import colours from '../config/colours';
 //  Components
 import Credits from '../components/Credits';
 
+//commit3
+
 // GA tracking
 const ID = Expo.Constants.manifest.extra.googleAnalytics;
 const analytics = new Analytics(ID);
