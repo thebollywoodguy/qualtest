@@ -21,6 +21,10 @@ import Credits from '../components/Credits';
 const ID = Expo.Constants.manifest.extra.googleAnalytics;
 const analytics = new Analytics(ID);
 
+//commit1
+
+//commit2
+
 //fake edit2
 
 
@@ -30,6 +34,11 @@ const analytics = new Analytics(ID);
 
 //fake edit6
 
+//fake edit7
+
+//fake edit8
+
+//fake edit9
 
 export default class DetailsScreen extends React.Component {
   static get propTypes() {
