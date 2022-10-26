@@ -28,6 +28,9 @@ const analytics = new Analytics(ID);
 
 //fake edit5
 
+//fake edit6
+
+
 export default class DetailsScreen extends React.Component {
   static get propTypes() {
     return {
