@@ -30,6 +30,7 @@ const analytics = new Analytics(ID);
 
 //fake edit6
 
+//fake edit7
 
 export default class DetailsScreen extends React.Component {
   static get propTypes() {
